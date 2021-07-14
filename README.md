@@ -1,0 +1,2 @@
+# RabbitMQProducer
+ Producer console
