@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBw8SY77WZh+81NwbLe0dPxRqDvNUquYbF4pYRq3ZcIXk8FkELO6OitKw1xyoi2215sVkW2PV3WGE1bm+LCUdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msibi\\Desktop\\WONGA\\NewTask\\Newtask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msibi\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\msibi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\msibi\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
